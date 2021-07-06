@@ -1,0 +1,34 @@
+
+.header{
+  background-color: #04619f;
+  font-family: sans-serif, arial, helvetica;
+  color: white;
+  margin: 0;
+  text-align: center;
+  padding: 1em;
+
+
+
+}
+
+
+.main{
+  background-color: #a1acbf;
+  color: white;
+  padding: 1em;
+  text-align: center;
+  font-family: monospace;
+  font-size: 25px;
+
+
+}
+.img{
+  background-image: url(record.png);
+  background-repeat: repeat space;
+
+
+}
+
+footer{
+  text-align: center;
+}
